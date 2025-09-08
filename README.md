@@ -14,7 +14,7 @@ This is the **Beta Release** of EVOZ Wallet – a secure, non-custodial crypto w
 ---
 
 ## 📲 Download
-➡️ [Download the latest APK here](https://github.com/EvozDevTeam/evoz-apk/releases/latest/download/evoz.apk)  
+➡️ [Download the latest APK here](https://github.com/EvozDevTeam/evoz-apk/releases/download/v1.0.0/evoz.apk)  
 
 ⚠️ **Important:**  
 Always download from **official EVOZ channels** (GitHub, EVOZ website, or Telegram) to ensure your asset security.  
